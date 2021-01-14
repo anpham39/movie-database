@@ -1,5 +1,6 @@
 ### Description
 A React application serves as a movie database. Fetching movies from API (https://www.omdbapi.com/).
+
 Checkout at: https://movie-database-db.netlify.app/
 
 ### Features
