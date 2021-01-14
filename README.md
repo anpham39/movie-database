@@ -8,3 +8,6 @@ Checkout at: https://movie-database-db.netlify.app/
 * Browsing movies list 
 * Viewing movie's information (released date, actors, genre, plot, duration, IMDbs rating and amount of votes)
 * Switching between Light/Dark themes. 
+
+### Teck stack
+* React
